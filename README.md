@@ -9,8 +9,8 @@ The source code for QR code generator extension
 3. You can now scan the QR code on your phone
 ## Features
 Generates any QR code
-<br>Only uses 2 JS files
-<br>(main JS and jQuery)
+<br>Only uses 2 JS/CSS files
+<br>(main JS and jQuery, main CSS and Boostrap)
 <br>Works offline
 <br>Includes many icons sizes:
 <br>(128, 64, 48, 32, 24, 16)
@@ -18,6 +18,11 @@ Generates any QR code
 ## Demo
 ![Screenshot](https://user-images.githubusercontent.com/92959844/152666400-1066cf22-2b66-4dfe-b1e5-0b01d86305da.png)
 (This is only a screenhot taken on Opera)
+## Release Notes (1.0.1 - Opera)
+[new] 24.png was added
+<br>[new] 2 new files were added (CSS files)
+<br>[removed] popup version was removed
+<br>(See Changelog.txt for previous releases)
 ## Links
 [Join us on Discord](https://discord.gg/twvxN8Szrz)
 <br>QR Code Generator on Edge (Coming soon)
