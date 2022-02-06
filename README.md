@@ -22,6 +22,7 @@ Generates any QR code
 [new] 24.png was added
 <br>[new] 2 new files were added (CSS files)
 <br>[removed] popup version was removed
+<br>[new] More styles was added
 <br>(See Changelog.txt for previous releases)
 ## Links
 [Join us on Discord](https://discord.gg/twvxN8Szrz)
