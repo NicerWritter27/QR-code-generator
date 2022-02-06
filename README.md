@@ -1,4 +1,4 @@
-# QR-code-generator
+# QR Code Generator
 ## What's this?
 The source code for QR code generator extension
 <br>You can access the link for download at the links section
