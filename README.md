@@ -23,6 +23,7 @@ Generates any QR code
 <br>[new] 2 new files were added (CSS files)
 <br>[removed] popup version was removed
 <br>[new] More styles was added
+<br>[fixed] QR Code was fixed (offline)
 <br>(See Changelog.txt for previous releases)
 ## Links
 [Join us on Discord](https://discord.gg/twvxN8Szrz)
