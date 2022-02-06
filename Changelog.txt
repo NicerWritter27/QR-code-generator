@@ -1,0 +1,8 @@
+1.0.1 - Latest Version (Opera)
+[new] 24.png was added
+[new] 2 new files were added (CSS files)
+[removed] popup version was removed
+[new] More styles was added
+
+1.0.0
+[new] The first version of the extension released
