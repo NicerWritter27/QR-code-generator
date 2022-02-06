@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+  "name": "QR Code Generator",
+  "version": "1.0.1",
+  "description": "Generate any QR code anytime, even offline",
+  "icons": {
+	"128": "icons/128.png",
+	"64": "icons/64.png",
+	"48": "icons/48.png",
+	"32": "icons/32.png",
+	"24": "icons/24.png",
+	"16": "icons/16.png"
+  },
+  "offline_enabled": true,
+  "content_security_policy": "script-src 'self' https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js; object-src 'self'",
+  "sidebar_action": {
+	"default_panel": "popup.html",
+	"default_icon": {
+		"128": "icons/128.png",
+		"64": "icons/64.png",
+		"48": "icons/48.png",
+		"32": "icons/32.png",
+		"24": "icons/24.png"
+	}
+  }
+}
